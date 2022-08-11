@@ -37,15 +37,6 @@
 |2. |SPAGHETTI BOLONIA (makaron z sosem bolońskim)                         |                    | 20 zł | 46 zł | 
 |3. |SPAGHETTI CARBONARA (makaron z sosem carbonara)                       |                    | 28 zł | 48 zł | 
 
-## Sałatki
-
-<img src = "img/tania-melnyczuk-xeTv9N2FjXA-unsplash.jpg" width = 300>
-
-1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
-2. Grecka  (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
-3. Hiszpańska  (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
-
-
 ## Sosy
 
 <img src = "img/elio-cesaro-EstHGbNyjng-unsplash.jpg" width = 200>
