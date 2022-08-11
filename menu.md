@@ -58,3 +58,5 @@
 |3. |Sok jabłkowy                                            |                    | 7 zł   | 12 zł  |
 |4. |Piwo jasne                                              |                    | 10 zł  | 15 zł  | 
 |5. |Piwo ciemne                                             |                    | 12 zł  | 17 zł  | 
+
+
