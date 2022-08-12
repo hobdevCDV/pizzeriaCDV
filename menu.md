@@ -69,6 +69,7 @@
 
 ## Dodatki
 
+
 <img src = "img/brenan-greene-HPZs4EXRFSU-unsplash.jpg" width = 200>
 
 1. Cukinia - 5 zł
