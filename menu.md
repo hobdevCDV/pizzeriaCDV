@@ -17,7 +17,7 @@
 |9. |GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                         |                    | 28 zł | 48 zł | 58 zł |
 |10.|BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)    |                    | 30 zł | 50 zł | 60 zł |
 
-## Pizze wegetariańskie
+## Pizze wegetariańskie 
 
 <img src = "img/randy-fath-5aJVJvJ9rG8-unsplash.jpg" width = 300>
 
