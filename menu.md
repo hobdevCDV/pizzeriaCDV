@@ -69,6 +69,8 @@
 
 ## Dodatki
 
+<img src = "img/brenan-greene-HPZs4EXRFSU-unsplash.jpg" width = 200>
+
 1. Cukinia - 5 zł
 2. Korczochy - 6 zł
 3. Krewetki - 10 zł
