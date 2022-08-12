@@ -67,6 +67,12 @@
 4. Sezamowy - 5 zł
 5. Majonezowy - 5 zł
 
+## Dodatki
+
+1. Cukinia - 5 zł
+2. Korczochy - 6 zł
+3. Krewetki - 10 zł
+
 ## Napoje
 
 <img src = "img/alexander-mils-pPhN8HFzkDE-unsplash.jpg" width = 200>
