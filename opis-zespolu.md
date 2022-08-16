@@ -14,6 +14,6 @@ Bartosz Nowak
 
 ## Dostawca
 
-Adam Wysocki
+Adam Wysocki!
 
 ## Grafik
