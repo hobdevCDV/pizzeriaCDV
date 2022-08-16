@@ -4,6 +4,8 @@ Nasz zespół to grupa ludzi, którzy kochają pizzę i postać Leonarda da Vinc
 
 ## Kierownik
 
+Jan Kowalski
+
 ## Kucharz
 
 ## Obsługa
