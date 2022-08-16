@@ -8,6 +8,8 @@ Jan Kowalski
 
 ## Kucharz
 
+Bartosz Nowak
+
 ## Obsługa
 
 ## Dostawca
