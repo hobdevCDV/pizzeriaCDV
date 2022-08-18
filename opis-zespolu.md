@@ -14,4 +14,6 @@ Bartosz Nowak
 
 ## Dostawca
 
+Kamil Podgórny
+
 ## Grafik
