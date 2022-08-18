@@ -14,7 +14,6 @@ Bartosz Nowak
 
 ## Dostawca
 
-jkjkjk
 
 Adam Wysocki!
 
