@@ -17,3 +17,5 @@ Bartosz Nowak
 Kamil Podgórny
 
 ## Grafik
+
+Nasze próby z poziomu Windows
